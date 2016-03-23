@@ -14,5 +14,7 @@ public class Version1
 	 System.out.println("localbranch1");
 	 System.out.println("localbranch1-commit2");
 	 System.out.println("version7");
+	 System.out.println("localbranch1-commit3");
+
  }
 }
